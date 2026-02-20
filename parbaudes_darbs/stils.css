@@ -1,0 +1,33 @@
+body {
+    font-family: 'Alfa Slab One', serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h2 {
+    font-family: 'Alfa Slab One', serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.carousel-item img {
+    height: 350px;
+    object-fit: cover;
+}
+
+
+p {
+    text-align:justify ;
+    
+}
+
+.dziesmu{
+    margin: 45px;
+}
+
+.card{
+    margin: 0 15px;
+}
